@@ -3,6 +3,7 @@ echo "The first line in file"
 head -n 3 3.txt
 echo "The last line i file"
 tail -n 3 3.txt
-
+echo "The date and time now"
+date
 
 
