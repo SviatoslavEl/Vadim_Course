@@ -3,6 +3,3 @@ line2
 12345
 Qwert
 123
-
-
-new branch line
