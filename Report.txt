@@ -1,0 +1,72 @@
+Defect Report 
+
+Defect ID:
+
+ID ....
+
+Summary:
+
+.....
+Component (function):
+
+.....
+
+Version:
+
+#....
+
+Severity:
+
+s1
+s2
+s3
+s4
+s5
+
+Priority
+
+p1
+p2
+p3
+
+Status:
+
+Open
+Rejected
+Deferred
+
+Author:
+
+.....
+
+Assigned To:
+
+.....
+
+Environment:
+
+.....
+
+Steps to Reproduce:
+1.
+2.
+3.
+.....
+
+Result:
+
+.....
+
+Expected Result:
+
+.....
+
+Attachment:
+
+*jpg *avi
+
+
+
+
+
+
