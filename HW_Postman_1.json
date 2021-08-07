@@ -46,7 +46,10 @@
 					]
 				}
 			},
-			"response": []
+			"response": [
+                                         "Sviatoslav",
+                                         "Twenty eight"
+                                    ]
 		},
 		{
 			"name": "EP_2",
@@ -88,8 +91,24 @@
 					]
 				}
 			},
-			"response": []
-		},
+			"response": {
+                                         "age": "28",
+                                         "family": {
+                                            "children": [
+                                             [
+                                                     "Alex",
+                                                     24
+                                             ],
+                                             [
+                                                     "Kate",
+                                                     12
+                                             ]
+                                             ],
+                                             "u_salary_1_5_year": 2800
+                                         },
+                                         "name": "Sviatoslav",
+                                         "salary": 700
+		                    },
 		{
 			"name": "EP_3",
 			"request": {
@@ -124,8 +143,12 @@
 					]
 				}
 			},
-			"response": []
-		},
+			"response": {
+                                     "age": 28,
+                                     "daily_food": 0.924,
+                                     "daily_sleep": 192.5,
+                                     "name": "Sviatoslav"
+          		            },
 		{
 			"name": "EP_4",
 			"request": {
@@ -160,8 +183,22 @@
 					]
 				}
 			},
-			"response": []
-		},
+			"response": {
+                                       "person": {
+                                          "u_age": 28,
+                                          "u_name": [
+                                              "Sviatoslav",
+                                              700,
+                                              28
+                                          ],
+                                         "u_salary_5_years": 2940.0
+                                       },
+                                       "qa_salary_after_1.5_year": 2310.0,
+                                       "qa_salary_after_12_months": 1890.0000000000002,
+                                       "qa_salary_after_3.5_years": 2660.0,
+                                       "qa_salary_after_6_months": 1400,
+                                       "start_qa_salary": 700
+		                    },
 		{
 			"name": "EP_5",
 			"request": {
@@ -194,10 +231,35 @@
 							"value": "700"
 						}
 					]
-				}
 			},
-			"response": []
-		},
+			"response": {
+                                        "age": "28",
+                                        "family": {
+                                             "children": [
+                                                  [
+                                                      "Alex",
+                                                      24
+                                                  ],
+                                                  [
+                                                      "Kate",
+                                                      12
+                                                  ]
+                                            ],
+                                            "pets": {
+                                                "cat": {
+                                                    "age": 3,
+                                                    "name": "Sunny"
+                                                  },
+                                                  "dog": {
+                                                      "age": 4,
+                                                      "name": "Luky"
+                                                  }
+                                             },
+                                             "u_salary_1_5_year": 2800
+                                         },
+                                         "name": "Sviatoslav",
+                                         "salary": 700
+       		                    },
 		{
 			"name": "EP_6",
 			"request": {
@@ -232,8 +294,15 @@
 					]
 				}
 			},
-			"response": []
-		},
+			"response": {
+                                         "age": 28,
+                                         "name": "Sviatoslav",
+                                         "salary": [
+                                             700,
+                                             "1400",
+                                             "2100"
+                                         ]
+         		              },
 		{
 			"name": "EP_7",
 			"request": {
@@ -274,7 +343,22 @@
 					]
 				}
 			},
-			"response": []
+			"response": {
+                                        "person": {
+                                            "u_age": 28,
+                                            "u_name": [
+                                                "Sviatoslav",
+                                                700,
+                                                28
+                                            ],
+                                            "u_salary_5_years": 2940.0
+                                        },
+                                        "qa_salary_after_1.5_year": 2310.0,
+                                        "qa_salary_after_12_months": 1890.0000000000002,
+                                        "qa_salary_after_3.5_years": 2660.0,
+                                        "qa_salary_after_6_months": 1400,
+                                        "start_qa_salary": 700
+                                    }
 		}
 	]
 }
